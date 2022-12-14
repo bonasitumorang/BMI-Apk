@@ -1,6 +1,6 @@
 # bmi_app
 
-A new Flutter project.
+First Project of Flutter.
 
 ## Getting Started
 
